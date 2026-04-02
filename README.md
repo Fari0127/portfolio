@@ -97,5 +97,5 @@ Log analízis, threat hunting és forensics
 * 💼 LinkedIn
 * 💻 GitHub: Fari0127
 
-
+⭐ Ha tetszik a projekt, dobj egy star-t!
 
