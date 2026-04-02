@@ -14,8 +14,6 @@
   🚀 Modern • Skálázható • Biztonságos megoldások
 </p>
 
----
-
 ## 🌐 Live Portfolio
 
 <p align="center">
@@ -28,8 +26,6 @@
   👉 <b><a href="https://fari0127.github.io/portfolio/">Megnyitás</a></b>
 </p>
 
----
-
 ## 🚀 About Me
 
 Full Stack Developer és Data/AI Specialist vagyok, aki **multidiszciplináris technológiai tudással** rendelkezik:
@@ -40,8 +36,6 @@ Full Stack Developer és Data/AI Specialist vagyok, aki **multidiszciplináris t
 * 🔐 Cybersecurity
 
 Célom: **skálázható, biztonságos és valódi értéket teremtő rendszerek építése.**
-
----
 
 ## 🧠 Tech Stack
 
@@ -69,8 +63,6 @@ Célom: **skálázható, biztonságos és valódi értéket teremtő rendszerek 
 * Vulnerability Assessment
 * Agile / Scrum / Kanban
 
----
-
 ## 🛠️ Featured Projects
 
 ### 🔹 Full Stack Capstone
@@ -88,7 +80,6 @@ Adatfeldolgozás, ML modellek és dashboardok Pythonban
 Log analízis, threat hunting és forensics
 👉 [https://github.com/Fari0127/cybersecurity-incident-response](https://github.com/Fari0127/cybersecurity-incident-response)
 
----
 
 ## 🎓 Certifications (Top)
 
@@ -100,31 +91,11 @@ Log analízis, threat hunting és forensics
 
 💡 + több mint 20 további technológiai és AI tanúsítvány
 
----
-
-## 🎬 Demo (opcionális)
-
-```md
-![Demo](images/demo.gif)
-```
-
-👉 Erősen ajánlott GIF-et csinálni (nagyon feldobja a profilt!)
-
----
-
 ## 📬 Contact
 
 * 📧 [farkaszoltan27@gmail.com](mailto:farkaszoltan27@gmail.com)
 * 💼 LinkedIn
 * 💻 GitHub: Fari0127
 
----
 
-## ⚡ Fun Fact
-
-👉 Full Stack + AI + Cybersecurity kombináció = **ritka és nagyon keresett skillset** 💥
-
----
-
-⭐ Ha tetszik a projekt, dobj egy star-t!
 
